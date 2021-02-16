@@ -41,7 +41,7 @@ cetak data dan harga kendaraan yang diparkir.
 
 ## Output Program
 <img src = "https://github.com/yakuza21/TUGAS-BESAR-PBO-KELOMPOK-6/blob/main/WhatsApp%20Image%202021-02-15%20at%2017.36.34.jpeg">
-<img src = "https://github.com/adamnurk/TUGAS-BESAR-PBO-KELOMPOK6/blob/main/Parkir2.PNG">
+<img src = "https://github.com/yakuza21/TUGAS-BESAR-PBO-KELOMPOK-6/blob/main/WhatsApp%20Image%202021-02-15%20at%2017.36.36.jpeg">
 <img src = "https://github.com/yakuza21/TUGAS-BESAR-PBO-KELOMPOK-6/blob/main/WhatsApp%20Image%202021-02-15%20at%2017.36.35.jpeg">
 <img src = "https://github.com/adamnurk/TUGAS-BESAR-PBO-KELOMPOK6/blob/main/Parkir4.PNG">
 
