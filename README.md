@@ -2,7 +2,7 @@
 
 Ini merupakan program parkir yang kami buat untuk mempermudah dalam pengelolaan parkir
 
-<img src = "https://github.com/adamnurk/TUGAS-BESAR-PBO-KELOMPOK6/blob/main/LOGO-ITTP-Tagline.png">
+<img src = "https://github.com/yakuza21/TUGAS-BESAR-PBO-KELOMPOK-6/blob/main/WhatsApp%20Image%202021-02-15%20at%2017.36.10.jpeg">
 
 ## Nama Kelompok
 1. Adam Nur Kridabayu             19104078
